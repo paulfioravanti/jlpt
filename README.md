@@ -6,6 +6,10 @@ Proficiency Test][] (JLPT).
 
 ![Kanji Back Template][]
 
+They are definitely more practical than pretty, so if you are looking for
+something better or nicer looking, you may have more luck looking up Anki's
+[JLPT shared decks][].
+
 I used the [新完全マスター][] (_Shin Kanzen Master_) series of books as a basis
 to create my flash card decks; meaning that I straight-up adapted all content
 from all the books into flash card decks.
@@ -14,21 +18,23 @@ Therefore, regardless of my desire to want to share the entire content of the
 decks online, it would not be fair to the book authors, and I'm sure the book
 publishers would not be so happy with me if I did.
 
-So, instead, if you are studying for JLPT Level N1, I would strongly encourage
-you to purchase the books (or any others that may suit you better) and then make
-your own Anki decks out of them, using or adapting the templates in this
-repository, or making your own.
+## Roll your own decks
 
-This has the great benefits of:
+So, instead, if you are studying for any JLPT Level, I would
+_strongly encourage_ you to purchase any relevant books, and then _make your
+own_ Anki decks out of them (using these deck templates as a base, or any others
+you like). Doing this **_is a great form of study_**. It will greatly assist in:
 
-- making the content more portable: you are not limited by the form-factor or
-  non-search-ability of the books (if you are on iOS, you may think that
-  [AnkiMobile][] is pricey for "just an app", but it is worth it for the
-  objective you are trying to achieve)
-- enabling Anki to work its spaced-revision-ing algorithms over the content,
-  surfacing your weaknesses and making sure they improve
-- adapting the book content to flash cards **_is a form of study_**, and will
-  assist greatly in your learning/revision of the content
+- your initial learning and internalising of the content
+- your revision of the content as Anki works its spaced-revision-ing algorithms
+  over it, surfacing your weaknesses and making sure they improve
+
+Making your own decks will also make content more portable: you will not be
+limited by the form-factor or non-search-ability of your books.
+
+If you are on iOS, you may think that [AnkiMobile][] is pricey for "just an
+app", but, in my opinion, it is absolutely worth it for the objective you are
+trying to achieve.
 
 ## How to use the templates
 
@@ -62,5 +68,6 @@ Good luck with your exam preparations! 頑張れ〜！🎌
 [command line interface]: https://en.wikipedia.org/wiki/Command-line_interface
 [Japanese Language Proficiency Test]: https://www.jlpt.jp/e/
 [JLPT level list]: https://www.jlpt.jp/e/about/levelsummary.html
+[JLPT shared decks]: https://ankiweb.net/shared/decks/jlpt
 [Kanji Back Template]: ./assets/kanji-back-template.jpg
 [新完全マスター]: https://www.3anet.co.jp/np/list.html?series_id=4&af=1&g=5&s=4
