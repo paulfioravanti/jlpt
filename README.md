@@ -23,7 +23,8 @@ publishers would not be so happy with me if I did.
 So, instead, if you are studying for any JLPT Level, I would
 _strongly encourage_ you to purchase any relevant books, and then _make your
 own_ Anki decks out of them (using these deck templates as a base, or any others
-you like). Doing this **_is a great form of study_**. It will greatly assist in:
+you like). Doing this **_is a great form of study_**. It will markedly assist
+in:
 
 - your initial learning and internalising of the content
 - your revision of the content as Anki works its spaced-revision-ing algorithms
