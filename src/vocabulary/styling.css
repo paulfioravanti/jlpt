@@ -1,0 +1,13 @@
+.card {
+  background-color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+#word {
+  margin-top: 0;
+}
+
+#examples {
+  text-align: left;
+}
