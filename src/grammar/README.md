@@ -59,7 +59,7 @@ via the `[Cards...]` button in the Fields screenshot above):
 [Grammar Fields]: ../../assets/grammar-fields.jpg
 [Grammar Front Template]: ../../assets/grammar-front-template.jpg
 [Grammar Styling]: ../../assets/grammar-styling.jpg
+[HTML]: https://en.wikipedia.org/wiki/HTML
 [Japanese Language Proficiency Test]: https://www.jlpt.jp/e/
 [Javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[HTML]: https://en.wikipedia.org/wiki/HTML
 [Stencil]: https://stencil.fuller.li/en/latest/
