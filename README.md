@@ -4,7 +4,9 @@ This repository contains sample templates and code for [Anki][] flash card decks
 that I used to study for [level N1][JLPT level list] of the [Japanese Language
 Proficiency Test][] (JLPT).
 
-It is the companion repository to my blog post _[My JLPT N1 Study Guide][]_.
+It is the companion repository to my blog post:
+
+- _[My JLPT N1 Study Guide][]_.
 
 ![Kanji Back Template][]
 
